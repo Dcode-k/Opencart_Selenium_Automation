@@ -1,0 +1,8 @@
+execution_env=local
+#execution_env=remote
+
+appURL1=http://opencart.localhost/
+appURL2=https://tutorialsninja.com/demo/
+email=krishnkant50@gmail.com
+password=Test@1234
+searchProductName=iphone
